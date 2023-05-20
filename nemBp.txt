@@ -1,0 +1,3 @@
+NÉV;KOR;CÍM;FIZETÉS
+Erdélyi Balázs;40;Szentendre;800000
+Kun Tímea;35;Debrecen;1200000

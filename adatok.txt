@@ -1,0 +1,5 @@
+NÉV;KOR;CÍM;FIZETÉS
+Suhajda Bea;37;Budapest;650000
+Suhajda Andrea;41;Budapest;670000
+Erdélyi Balázs;40;Szentendre;800000
+Kun Tímea;35;Debrecen;1200000
